@@ -1,6 +1,6 @@
 {
   "name": "larkit-chsec",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "author": "Lark IT",
   "summary": "Change setting in AIX security files. (fork of bwilcox-chsec)",
   "license": "Apache-2.0",
@@ -10,7 +10,7 @@
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
-      "version_requirement": ">= 1.0.0 < 5.0.0"
+      "version_requirement": ">= 1.0.0 < 10.0.0"
     }
   ],
   "operatingsystem_support": [
